@@ -65,6 +65,11 @@ Game was created by AnAllergyToAnalogy
 - [Twitter](https://x.com/cashtagyolo)
 - [Discord Server](https://discord.com/invite/yNQK7VNesX)
 
+## Contract
+
+Game token contract is on Arbitrum here:
+
+[0xB548dFba62869bA701c8a35cDBb0d322f684Cb00](https://arbiscan.io/address/0xB548dFba62869bA701c8a35cDBb0d322f684Cb00)
 
 ## BUGS
 
