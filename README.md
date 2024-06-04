@@ -64,3 +64,8 @@ Game was created by AnAllergyToAnalogy
 - [Farcaster](https://warpcast.com/allergy)
 - [Twitter](https://x.com/cashtagyolo)
 - [Discord Server](https://discord.com/invite/yNQK7VNesX)
+
+
+## BUGS
+
+This is very much a Beta release, if not earlier. Please report any bugs to me on Farcaster.

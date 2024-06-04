@@ -48,3 +48,8 @@ You can upgrade your Airship in 3 different ways:
 If you run out of fuel, you have two options. You can Abandon your cargo and instantly return to base. Or you can pay 
  Coin for an emergency rescue. 
 
+## BUGS
+
+This is very much a Beta release, if not earlier. Please report any bugs to me on Farcaster:
+
+[AnAllergyToAnalogy](https://warpcast.com/allergy)
